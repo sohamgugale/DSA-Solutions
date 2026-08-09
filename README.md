@@ -13,10 +13,12 @@ My solutions to Data Structures and Algorithms problems
 | ------- |
 | [0045-jump-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/0045-jump-game-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +39,12 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
