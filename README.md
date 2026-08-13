@@ -8,6 +8,7 @@ My solutions to Data Structures and Algorithms problems
 | ------- |
 | [0045-jump-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sohamgugale/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +48,12 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sohamgugale/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sohamgugale/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
