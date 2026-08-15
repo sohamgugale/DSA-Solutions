@@ -9,6 +9,7 @@ My solutions to Data Structures and Algorithms problems
 | [0045-jump-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sohamgugale/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sohamgugale/DSA-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,8 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sohamgugale/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sohamgugale/DSA-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
