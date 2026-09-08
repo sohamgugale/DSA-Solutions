@@ -25,6 +25,7 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
+| [3870-count-commas-in-range](https://github.com/sohamgugale/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 ## Minimax
 |  |
 | ------- |
