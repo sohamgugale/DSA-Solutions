@@ -25,6 +25,7 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sohamgugale/DSA-Solutions/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sohamgugale/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/sohamgugale/DSA-Solutions/tree/master/3870-count-commas-in-range) |
 ## Minimax
 |  |
@@ -62,4 +63,8 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sohamgugale/DSA-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sohamgugale/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
