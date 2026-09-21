@@ -51,6 +51,7 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sohamgugale/DSA-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/sohamgugale/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ My solutions to Data Structures and Algorithms problems
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sohamgugale/DSA-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sohamgugale/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
